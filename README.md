@@ -1,5 +1,3 @@
-# Real Time Bus Tracker
-
 # Title of the project:
 Real Time Bus Tracker
 
